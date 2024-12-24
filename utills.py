@@ -5,7 +5,6 @@ import google.generativeai as genai
 from io import StringIO
 import PyPDF2
 import docx
-from pdfminer.high_level import extract_text_to_fp
 from io import BytesIO
 import os
 import streamlit as st
